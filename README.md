@@ -3,4 +3,4 @@
  
  You need to configure appsettings with your connectString
  
- Using UnitOfWork
+ Using UnitOfWork, EF 2.6, .net core 2.2
