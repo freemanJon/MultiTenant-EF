@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jonatan.freidmon\\Desktop\\MultiTenant\\ApiMultiTenant\\ApiMultiTenant.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jonatan.freidmon\\Desktop\\MultiTenant\\ApiMultiTenant\\ApiMultiTenant.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jonatan.freidmon\\Desktop\\MultiTenant\\ApiMultiTenant\\ApiMultiTenant.csproj",
+        "projectName": "ApiMultiTenant",
+        "projectPath": "C:\\Users\\jonatan.freidmon\\Desktop\\MultiTenant\\ApiMultiTenant\\ApiMultiTenant.csproj",
+        "packagesPath": "C:\\Users\\jonatan.freidmon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jonatan.freidmon\\Desktop\\MultiTenant\\ApiMultiTenant\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jonatan.freidmon\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

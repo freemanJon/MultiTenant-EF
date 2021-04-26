@@ -1,0 +1,14 @@
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\bin\Debug\netcoreapp2.2\ApiMultiTenant.deps.json
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\bin\Debug\netcoreapp2.2\ApiMultiTenant.runtimeconfig.json
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\bin\Debug\netcoreapp2.2\ApiMultiTenant.runtimeconfig.dev.json
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\bin\Debug\netcoreapp2.2\ApiMultiTenant.dll
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\bin\Debug\netcoreapp2.2\ApiMultiTenant.pdb
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\obj\Debug\netcoreapp2.2\ApiMultiTenant.csprojAssemblyReference.cache
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\obj\Debug\netcoreapp2.2\ApiMultiTenant.csproj.CoreCompileInputs.cache
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\obj\Debug\netcoreapp2.2\ApiMultiTenant.RazorAssemblyInfo.cache
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\obj\Debug\netcoreapp2.2\ApiMultiTenant.RazorAssemblyInfo.cs
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\obj\Debug\netcoreapp2.2\ApiMultiTenant.AssemblyInfoInputs.cache
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\obj\Debug\netcoreapp2.2\ApiMultiTenant.AssemblyInfo.cs
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\obj\Debug\netcoreapp2.2\ApiMultiTenant.RazorTargetAssemblyInfo.cache
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\obj\Debug\netcoreapp2.2\ApiMultiTenant.dll
+C:\Users\jonatan.freidmon\Desktop\MultiTenant\ApiMultiTenant\obj\Debug\netcoreapp2.2\ApiMultiTenant.pdb
